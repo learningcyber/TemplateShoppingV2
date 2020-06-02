@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="/">
-    <img src="https://raw.githubusercontent.com/learningcyber/TemplateShoppingPaceUsa/master/Screenshot_16.png" width="700" />
+    <img src="https://raw.githubusercontent.com/learningcyber/TemplateShoppingPaceUsa/master/Screenshot_17.png" width="700" />
   </a>
 </p>
 
